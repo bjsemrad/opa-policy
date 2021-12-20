@@ -5,5 +5,5 @@ import data.dataset
 default main = false
 
 main {
-    input.test == true
+    input.test == false
 }
